@@ -74,7 +74,7 @@ spl-token create-token TOK.json
 
 ### Step 6: Manage Metadata on Arweave
 
-- **Upload Image:** Upload your token's image to Arweave.
+- **Upload Image:** Upload your token's image (The 1:1 Ratio Pic) to Arweave.
 - **Edit Metadata:** Ensure your `metadata.json` is accurate and up to date.
 - **Upload Metadata:** Upload the edited `metadata.json` to Arweave.
 
@@ -89,7 +89,7 @@ ts-node mpl_metadata.ts Dep1.json TOK "Name" "Symbol" "uri"
 **Example:**
 
 ```bash
-ts-node mpl_metadata.ts GWTviHhoatDtB7QyTXsk3Gwe6Kufnmf8ESaAiTHo7Chc.json GMEcZcNGPiCcsJV7UjK5qCy4TTTX3Kiijvbo1j487Tg3 "GMEWENTRUMPWIFJUP" "SOLANA" "https://arweave.net/xyz"
+ts-node mpl_metadata.ts GWTviHhoatDtB7QyTXsk3Gwe6Kufnmf8ESaAiTHo7Chc.json BBLCOINCcsJV7UjK5qCy4xxxxxxxbo1j487Tg3 "BUBBLEMOONCOIN" "BUBBL" "https://arweave.net/xyz"
 ```
 
 Include links (website, Telegram, Twitter, etc.) in the description for better visibility on scanners. Performing a few transactions from the wallet ahead of deploying can help avoid the "Fresh Wallet" flag on scanners.
@@ -138,7 +138,7 @@ Setup Bots:
     - ca TOK
     - website SITE
     - twitter TWITTER
-    - mintrevoke MINT_TXN
+    - revoke MINT_TXN
     - chart dexscreener.com/solana/TOK
   - `/setwelcome` Hey, {first}. Welcome to NAME!!! Enjoy your stay
   - `/goodbye` false
