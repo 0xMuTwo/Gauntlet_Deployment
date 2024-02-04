@@ -1,0 +1,7 @@
+---
+json_rpc_url: https://mainnet.helius-rpc.com/?api-key=c290f545-b68d-4271-a604-0b77337fa8dd
+websocket_url: ""
+keypair_path: /Users/ethan/Documents/Coding/Glove/Gauntlet/GWTWJ/GWT_Deployment/GWTviHhoatDtB7QyTXsk3Gwe6Kufnmf8ESaAiTHo7Chc.json
+address_labels:
+  "11111111111111111111111111111111": System Program
+commitment: confirmed
