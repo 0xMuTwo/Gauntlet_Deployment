@@ -18,18 +18,27 @@ This guide outlines the steps for creating a Solana token using command line too
 ### Creative
 
 - Name
+  - INSERT
 - Symbol
+  - INSERT
 - Description
-- Media
-  - Profile in 1:1 Ratio
-  - Twitter Banner
-  - "New Token Buy!" Gif
+  - INSERT
+- Create /Media folder
+  - Profile in 1:1 Ratio (Name this: Icon.xxx)
+  - Twitter Banner (Name this: Banner.xxx)
+  - "New Token Buy!" Gif (Name this: BuyGif.gif)
   - 3 Good Tweets
+    - Tweet 1:
+    - Tweet 2:
+    - Tweet 3:
 
 #### Technical
 
 - Porkbun — Buy Domain
 - Framer — Build Website
+  - Create Main Site
+  - Change Favicon
+  - Change Title Text
 - Twitter — Create twitter
 - Telegram — Ensure telegram is thoroughly scrubbed, then create new persona
 - Setup Telegram Portal & Group with @Safeguard
@@ -96,7 +105,10 @@ Include links (website, Telegram, Twitter, etc.) in the description for better v
 
 ### Step 8: Update Public Information
 
-With your token address, Telegram, and Twitter ready, update your project's website accordingly.
+Update project's website with
+-Token Address
+-Telegram
+-Twitter
 
 ### Step 9: Minting Tokens
 
