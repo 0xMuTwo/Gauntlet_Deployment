@@ -1,5 +1,11 @@
 # I'm Open Sourcing this because I no longer need it. 
 
+No Longer Maintained.
+No Longer Supported.
+No Longer Used.
+Here to show others how I did it.
+Like all those I learned from did for me.
+
 I've had my fun. Good Luck Everyone.
 
 With this guide, I've literally created hundreds of Meme Tokens on Solana. Some did well. Some I lost a lot of money on.
