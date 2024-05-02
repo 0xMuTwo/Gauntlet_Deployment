@@ -1,5 +1,12 @@
 # I'm Open Sourcing this because I no longer need it. I've had my fun. Good Luck Everyone.
 
+
+
+
+
+
+
+
 # Creating a Solana Token
 
 This guide outlines the steps for creating a Solana token using command line tools. Each step is critical in ensuring the successful creation, deployment, and management of the token.
